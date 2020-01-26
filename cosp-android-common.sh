@@ -1,7 +1,7 @@
 #!/bin/sh
 
-SUPPORTED_ABIS="armeabi armeabi-v7a x86"
-SUPPORTED_TOOLCHAIN_VERSIONS="4.4.3 4.6.3"
+SUPPORTED_ABIS="armeabi armeabi-v7a x86 arm64-v8a"
+SUPPORTED_TOOLCHAIN_VERSIONS="4.4.3 4.6.3 49"
 
 ANDROID_NDK_ROOT=
 PREFIX=/opt/cosp
